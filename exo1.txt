@@ -1,0 +1,15 @@
+<?xml version='1.0'
+encoding="utf-8"?>
+<info>
+   <Pays>Algerie</Pays>
+   <Capitale>Alger</Capitale>
+   <Population>37.14 millions(2007)</Population>
+
+   <Pays>Maroc</Pays>
+   <Capitale>Rabat</Capitale>
+   <Population>31.54 millions(2008)</Population>
+   
+   <Pays>Tunisie</Pays>
+   <Capitale>Tunis</Capitale>
+   <Population>10.41 millions(2008)</Population>
+</info>
